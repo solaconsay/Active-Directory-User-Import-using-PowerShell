@@ -1,0 +1,101 @@
+﻿Location,Department,Name,FirstName,LastName,EmailAddress,Username
+Halifax,Accounting,Philip SMITH,Philip,SMITH,philip.smith@gmail.com,p.smith
+Halifax,Accounting,Logan JOHNSON,Logan,JOHNSON,logan.johnson@gmail.com,l.johnson
+Halifax,Accounting,Bobby WILLIAMS,Bobby,WILLIAMS,bobby.williams@gmail.com,b.williams
+Halifax,Accounting,Harry BROWN,Harry,BROWN,harry.brown@gmail.com,h.brown
+Halifax,HR Dept,Johnny JONES,Johnny,JONES,johnny.jones@gmail.com,j.jones
+Halifax,HR Dept,Mary MILLER,Mary,MILLER,mary.miller@gmail.com,m.miller
+Halifax,Operations,John DAVIS,John,DAVIS,john.davis@gmail.com,j.davis
+Halifax,Operations,Robert GARCIA,Robert,GARCIA,robert.garcia@gmail.com,r.garcia
+Halifax,Operations,Michael RODRIGUEZ,Michael,RODRIGUEZ,michael.rodriguez@gmail.com,m.rodriguez
+Halifax,Operations,William WILSON,William,WILSON,william.wilson@gmail.com,w.wilson
+Halifax,Operations,David MARTINEZ,David,MARTINEZ,david.martinez@gmail.com,d.martinez
+Halifax,Operations,Richard ANDERSON,Richard,ANDERSON,richard.anderson@gmail.com,r.anderson
+Halifax,Operations,Joseph TAYLOR,Joseph,TAYLOR,joseph.taylor@gmail.com,j.taylor
+Halifax,Operations,Thomas THOMAS,Thomas,THOMAS,thomas.thomas@gmail.com,t.thomas
+Halifax,Operations,Charles HERNANDEZ,Charles,HERNANDEZ,charles.hernandez@gmail.com,c.hernandez
+Halifax,Operations,Christopher MOORE,Christopher,MOORE,christopher.moore@gmail.com,c.moore
+Halifax,Operations,Daniel MARTIN,Daniel,MARTIN,daniel.martin@gmail.com,d.martin
+Halifax,Operations,Matthew JACKSON,Matthew,JACKSON,matthew.jackson@gmail.com,m.jackson
+Halifax,Operations,Anthony THOMPSON,Anthony,THOMPSON,anthony.thompson@gmail.com,a.thompson
+Halifax,Operations,Donald WHITE,Donald,WHITE,donald.white@gmail.com,d.white
+Halifax,Operations,Mark LOPEZ,Mark,LOPEZ,mark.lopez@gmail.com,m.lopez
+Halifax,Operations,Paul LEE,Paul,LEE,paul.lee@gmail.com,p.lee
+Halifax,IT Dept,Steven GONZALEZ,Steven,GONZALEZ,steven.gonzalez@gmail.com,s.gonzalez
+Halifax,IT Dept,Andrew HARRIS,Andrew,HARRIS,andrew.harris@gmail.com,a.harris
+Halifax,IT Dept,Kenneth CLARK,Kenneth,CLARK,kenneth.clark@gmail.com,k.clark
+Halifax,Maintenance,George LEWIS,George,LEWIS,george.lewis@gmail.com,g.lewis
+Halifax,Maintenance,Joshua ROBINSON,Joshua,ROBINSON,joshua.robinson@gmail.com,j.robinson
+Halifax,Maintenance,Kevin WALKER,Kevin,WALKER,kevin.walker@gmail.com,k.walker
+Halifax,Maintenance,Brian PEREZ,Brian,PEREZ,brian.perez@gmail.com,b.perez
+Truro,Accounting,Edward HALL,Edward,HALL,edward.hall@gmail.com,e.hall
+Truro,Accounting,Ronald YOUNG,Ronald,YOUNG,ronald.young@gmail.com,r.young
+Truro,IT Dept,Timothy ALLEN,Timothy,ALLEN,timothy.allen@gmail.com,t.allen
+Truro,Maintenance,Jason SANCHEZ,Jason,SANCHEZ,jason.sanchez@gmail.com,j.sanchez
+Truro,Maintenance,Jeffrey WRIGHT,Jeffrey,WRIGHT,jeffrey.wright@gmail.com,j.wright
+Truro,Maintenance,Ryan KING,Ryan,KING,ryan.king@gmail.com,r.king
+Truro,HR Dept,Nicholas BAKER,Nicholas,BAKER,nicholas.baker@gmail.com,n.baker
+Truro,HR Dept,Jacob SCOTT,Jacob,SCOTT,jacob.scott@gmail.com,j.scott
+Truro,HR Dept,Gary GREEN,Gary,GREEN,gary.green@gmail.com,g.green
+Truro,Operations,Eric ADAMS,Eric,ADAMS,eric.adams@gmail.com,e.adams
+Truro,Operations,Stephen NELSON,Stephen,NELSON,stephen.nelson@gmail.com,s.nelson
+Truro,Operations,Jonathan HILL,Jonathan,HILL,jonathan.hill@gmail.com,j.hill
+Truro,Operations,Larry RAMIREZ,Larry,RAMIREZ,larry.ramirez@gmail.com,l.ramirez
+Truro,Operations,Justin CAMPBELL,Justin,CAMPBELL,justin.campbell@gmail.com,j.campbell
+Truro,Operations,Scott MITCHELL,Scott,MITCHELL,scott.mitchell@gmail.com,s.mitchell
+Truro,Operations,Brandon ROBERTS,Brandon,ROBERTS,brandon.roberts@gmail.com,b.roberts
+Truro,Operations,Frank CARTER,Frank,CARTER,frank.carter@gmail.com,f.carter
+Truro,Operations,Benjamin PHILLIPS,Benjamin,PHILLIPS,benjamin.phillips@gmail.com,b.phillips
+Truro,Operations,Gregory EVANS,Gregory,EVANS,gregory.evans@gmail.com,g.evans
+Truro,Operations,Raymond TURNER,Raymond,TURNER,raymond.turner@gmail.com,r.turner
+Truro,Operations,Samuel TORRES,Samuel,TORRES,samuel.torres@gmail.com,s.torres
+Truro,Operations,Patrick PARKER,Patrick,PARKER,patrick.parker@gmail.com,p.parker
+Truro,Operations,Alexander COLLINS,Alexander,COLLINS,alexander.collins@gmail.com,a.collins
+Truro,Operations,Jack EDWARDS,Jack,EDWARDS,jack.edwards@gmail.com,j.edwards
+Truro,Operations,Dennis STEWART,Dennis,STEWART,dennis.stewart@gmail.com,d.stewart
+Truro,Operations,Jerry FLORES,Jerry,FLORES,jerry.flores@gmail.com,j.flores
+Truro,Operations,Tyler MORRIS,Tyler,MORRIS,tyler.morris@gmail.com,t.morris
+Truro,Operations,Aaron NGUYEN,Aaron,NGUYEN,aaron.nguyen@gmail.com,a.nguyen
+Truro,Operations,Henry MURPHY,Henry,MURPHY,henry.murphy@gmail.com,h.murphy
+Truro,Operations,Jose RIVERA,Jose,RIVERA,jose.rivera@gmail.com,j.rivera
+Truro,Operations,Douglas COOK,Douglas,COOK,douglas.cook@gmail.com,d.cook
+Truro,Operations,Peter ROGERS,Peter,ROGERS,peter.rogers@gmail.com,p.rogers
+Truro,Operations,Adam MORGAN,Adam,MORGAN,adam.morgan@gmail.com,a.morgan
+Truro,Operations,Nathan PETERSON,Nathan,PETERSON,nathan.peterson@gmail.com,n.peterson
+Truro,Operations,Zachary COOPER,Zachary,COOPER,zachary.cooper@gmail.com,z.cooper
+Truro,Operations,Walter REED,Walter,REED,walter.reed@gmail.com,w.reed
+Truro,Operations,Kyle BAILEY,Kyle,BAILEY,kyle.bailey@gmail.com,k.bailey
+Truro,Operations,Harold BELL,Harold,BELL,harold.bell@gmail.com,h.bell
+Truro,Operations,Carl GOMEZ,Carl,GOMEZ,carl.gomez@gmail.com,c.gomez
+Truro,Operations,Jeremy KELLY,Jeremy,KELLY,jeremy.kelly@gmail.com,j.kelly
+Truro,Operations,Gerald HOWARD,Gerald,HOWARD,gerald.howard@gmail.com,g.howard
+Truro,Operations,Keith WARD,Keith,WARD,keith.ward@gmail.com,k.ward
+Truro,Operations,Roger COX,Roger,COX,roger.cox@gmail.com,r.cox
+Truro,Operations,Arthur DIAZ,Arthur,DIAZ,arthur.diaz@gmail.com,a.diaz
+Truro,Operations,Terry RICHARDSON,Terry,RICHARDSON,terry.richardson@gmail.com,t.richardson
+Truro,Operations,Lawrence WOOD,Lawrence,WOOD,lawrence.wood@gmail.com,l.wood
+Truro,Operations,Sean WATSON,Sean,WATSON,sean.watson@gmail.com,s.watson
+Truro,Operations,Christian BROOKS,Christian,BROOKS,christian.brooks@gmail.com,c.brooks
+Truro,Operations,Ethan BENNETT,Ethan,BENNETT,ethan.bennett@gmail.com,e.bennett
+Truro,Operations,Austin GRAY,Austin,GRAY,austin.gray@gmail.com,a.gray
+Truro,Operations,Joe JAMES,Joe,JAMES,joe.james@gmail.com,j.james
+Truro,Operations,Albert REYES,Albert,REYES,albert.reyes@gmail.com,a.reyes
+Truro,Operations,Jesse CRUZ,Jesse,CRUZ,jesse.cruz@gmail.com,j.cruz
+Truro,Operations,Willie HUGHES,Willie,HUGHES,willie.hughes@gmail.com,w.hughes
+Truro,Operations,Billy PRICE,Billy,PRICE,billy.price@gmail.com,b.price
+Truro,Operations,Bryan MYERS,Bryan,MYERS,bryan.myers@gmail.com,b.myers
+Truro,Operations,Bruce LONG,Bruce,LONG,bruce.long@gmail.com,b.long
+Truro,Operations,Noah FOSTER,Noah,FOSTER,noah.foster@gmail.com,n.foster
+Truro,Operations,Jordan SANDERS,Jordan,SANDERS,jordan.sanders@gmail.com,j.sanders
+Truro,Operations,Dylan ROSS,Dylan,ROSS,dylan.ross@gmail.com,d.ross
+Truro,Operations,Ralph MORALES,Ralph,MORALES,ralph.morales@gmail.com,r.morales
+Truro,Operations,Roy POWELL,Roy,POWELL,roy.powell@gmail.com,r.powell
+Truro,Operations,Alan SULLIVAN,Alan,SULLIVAN,alan.sullivan@gmail.com,a.sullivan
+Truro,Operations,Wayne RUSSELL,Wayne,RUSSELL,wayne.russell@gmail.com,w.russell
+Truro,Operations,Eugene ORTIZ,Eugene,ORTIZ,eugene.ortiz@gmail.com,e.ortiz
+Truro,Operations,Juan JENKINS,Juan,JENKINS,juan.jenkins@gmail.com,j.jenkins
+Truro,Operations,Gabriel GUTIERREZ,Gabriel,GUTIERREZ,gabriel.gutierrez@gmail.com,g.gutierrez
+Truro,Operations,Louis PERRY,Louis,PERRY,louis.perry@gmail.com,l.perry
+Truro,Operations,Russell BUTLER,Russell,BUTLER,russell.butler@gmail.com,r.butler
+Truro,Operations,Randy BARNES,Randy,BARNES,randy.barnes@gmail.com,r.barnes
+Truro,Operations,Vincent FISHER,Vincent,FISHER,vincent.fisher@gmail.com,v.fisher
