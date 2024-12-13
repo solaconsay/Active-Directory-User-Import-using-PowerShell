@@ -40,7 +40,7 @@ The script expects the CSV file (`ListEmployees.csv`) to have the following colu
 1. **Define Variables**: Modify the script's initial variables to fit your AD structure.
 2. **Run Script**: Execute the script in PowerShell:
    ```powershell
-   .\your_script_name.ps1
+   .\ProjectAddUser.ps1
    ```
 
 ## Example Output
